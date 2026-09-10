@@ -1,6 +1,10 @@
 # ToDoApp
 
-Flutter ile geliştirilmiş state management yöntemi olarak provider kullanılmış yapılacaklar listesi (ToDo) uygulaması.
+Clean Architecture prensipleriyle geliştirilmiş, Repository Pattern ile Firebase Authentication ve Cloud Firestore entegrasyonu sağlayan mobil görev yönetim uygulaması.
+
+Provider ile reaktif state management ve AutoRoute ile tip güvenli dinamik yönlendirme mimarisi kurgulandı.
+
+Öncelik seviyeleri, kategori yönetimi ve filtreleme mekanizmalarını içeren modüler bir UI tasarımı uygulandı.
 Uygulama demosu:
 
 ## Demo
